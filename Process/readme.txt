@@ -1,5 +1,5 @@
 1)  what is process ?
-
+ans.
 2) what is ps -a
 
 3) what is top command
