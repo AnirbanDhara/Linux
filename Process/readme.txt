@@ -24,6 +24,6 @@ ans. We execute this command to view all processes with exception of processes a
 3) what is top command ?
 ans. This command is used to view the continious usage of memory. if some processes is some kind of hang state (consuming more memory and time to execute), then we can identify those processes and take appropriate action(such as killing the process)
 4) what is fork()?
-ans. This command is used to create a process .Whenever we execute this system call two process is created - Parent process and child process.
+ans. This command is used to create a process within a program .Whenever we execute this system call two process is created - Parent process and child process.
 5) how to check pid,ppid from terminal?
 ans.By executing 'ps -ef' command we can check pid(process ID) and ppid(parent process ID).
